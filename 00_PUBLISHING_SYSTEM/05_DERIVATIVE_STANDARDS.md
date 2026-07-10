@@ -72,11 +72,14 @@ The canonical blog article is the primary educational expression of each learnin
 
 ### Length
 
-- **Minimum:** 1,200 words
-- **Maximum:** 2,000 words
-- **Ideal:** 1,400–1,800 words
+- **Minimum:** 700 words
+- **Maximum:** 1,200 words
+- **Ideal:** ~800 words
+- **Exception:** Up to 1,200 words only when the topic genuinely demands additional depth (rare)
 
-Shorter articles feel incomplete. Longer articles lose reader attention. If the topic requires more than 2,000 words, you have two articles, not one.
+**Philosophy:** Long enough to teach one meaningful lesson. Short enough to read over coffee (5-minute read).
+
+Online readers scan, pause, and return later. Shorter, focused articles respect that behavior and increase completion rates. Readers finishing 12 focused articles build more trust than abandoning 12 longer essays. The depth is reserved for the certification course, not the blog.
 
 ### Structure (Required)
 

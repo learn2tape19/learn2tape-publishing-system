@@ -21,8 +21,10 @@
 
 ### ✅ Phase 3: Drafting
 - **First Draft Completed:** 2026-07-10
-- **Word Count:** 1,847 (within 1,200-2,000 target)
+- **Word Count:** 1,847 (initial draft)
 - **Structure:** All 6 sections complete (Situation, Common Mistake, Better Approach, Why It Works, Takeaway, Continue Learning)
+- **Editorial Refinement:** 2026-07-10 (refactored to 795 words, single-idea focus per Decision 004)
+- **Word Count After Refinement:** 795 (aligned with new 700-1,000 standard)
 - **Status:** Complete
 
 ### ✅ Phase 4: Clinical Review
@@ -142,8 +144,10 @@
 
 | Metric | Target | Actual | Status |
 |--------|--------|--------|--------|
-| Production Velocity (days) | ≤10 | 5 | ✅ PASS |
-| Word Count | 1,200-2,000 | 1,847 | ✅ PASS |
+| Production Velocity (days) | ≤10 | 5 (initial draft) | ✅ PASS |
+| Word Count (Initial) | 1,200-2,000 | 1,847 | ✅ PASS |
+| Word Count (Refined) | 700-1,000 | 795 | ✅ PASS |
+| Single-Idea Focus | Yes | Yes | ✅ PASS |
 | All 6 Sections Complete | Yes | Yes | ✅ PASS |
 | Clinical Review Pass | Yes | Yes | ✅ PASS |
 | Voice Consistency | Yes | Yes | ✅ PASS |

@@ -213,9 +213,49 @@ Blog #1 production exposes genuine friction requiring system change
 
 ---
 
-### Production Decisions (To be recorded as they occur)
+### Production Decisions
 
-*This section will be populated as actual production decisions are made during Blog #1 and beyond.*
+#### Decision 004
+
+**Date:** 2026-07-10
+
+**Decision:**  
+Revise canonical blog article length standard from 1,200–2,000 words (target: 1,400–1,800) to 700–1,000 words (target: ~800). Apply reader-behavior-first philosophy before Blog #1 publication.
+
+**Evidence:**
+- Blog #1 draft: 1,847 words attempted to teach three distinct concepts (clinical reasoning, assessment importance, movement vs. tissue damage)
+- User feedback: "One Learning Objective = One Idea" — current length enables multi-idea teaching, which violates curriculum principle
+- Reader behavior principle: online readers scan, pause, return later. Completion rates increase with shorter, focused articles
+- Field observation: expert mentors deliver teaching content in 5-minute reads for clinical consumption
+- Test case (Blog #1): Refactored to 795 words, single focus (clinical reasoning). Format aligns with curriculum principle.
+
+**Reason:**  
+This enforces the curriculum foundation: each learning objective teaches one belief shift. Longer articles create temptation to over-teach; shorter length forces discipline. Online readership patterns show higher completion for focused pieces under 1,000 words. Aligns with mentor-voice positioning: clinical wisdom shared briefly, not academic essays.
+
+**Alternatives Considered:**
+- Keep 1,200–2,000 word standard, split Blog #1 into three articles later — rejected because it delays Blog #1 publication and leaves governance misaligned with practice
+- Increase length further for "depth" — rejected as undermining curriculum architecture and ignoring reader behavior data
+
+**Affected Documents:**
+- 05_DERIVATIVE_STANDARDS.md (line 73–79: canonical blog length section updated)
+- LO01_CANONICAL_ARTICLE.md (refactored from 1,847 to 795 words, single-idea focus)
+- 02A_CURRICULUM_DELIVERY_PLAN_Q3_2026.md (standard reflected in current campaign)
+
+**Operational Impact:**
+- All future blog articles targeted at ~800 words (maximum 1,200 only when topic genuinely demands extra depth, rare)
+- Production guidance shifts from "teach comprehensively" to "teach one lesson well"
+- Splits blog series assignments where single topics would exceed 1,000 words
+
+**Success Metric:**  
+- Blog #1 publishes at 795 words with complete teaching of LO1 (clinical reasoning foundation)
+- Blog #1 engagement metrics exceed Blog #2+ baseline (completion rate, scroll depth, email CTR)
+- Reader feedback confirms focus and clarity
+
+**Authorized By:**  
+Drew Freedman
+
+**Review Trigger:**  
+After Blog #1 and Blog #2 publish, compare engagement metrics (completion rate, scroll depth, time-on-page, email open/CTR). If the shorter format underperforms, revisit.
 
 ---
 
