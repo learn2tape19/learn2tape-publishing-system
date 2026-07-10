@@ -1,0 +1,143 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Local Environment Files
+.env
+.env.local
+.env.*.local
+
+# Temporary and Log Files
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*~
+
+# macOS specific
+.AppleDouble
+.LSOverride
+._*
+.apdisk
+
+# Credentials and Secrets
+*.pem
+*.key
+*.pfx
+*.p12
+client_secret.json
+credentials.json
+
+# Protected Health Information
+# Do not commit:
+PHI_*
+PII_*
+*_CONFIDENTIAL.*
+*_PRIVATE.*
+patient_*
+student_records_*
+user_data_*
+
+# Private/Personal
+PRIVATE/
+personal_notes/
+draft_ideas.md
+scratchpad/
+
+# Distribution Artifacts
+dist/
+build/
+*.zip
+*.tar
+*.tar.gz
+
+# Compiled Files
+*.pyc
+*.class
+*.o
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache
+.cache/
+*.cache
+
+# Generated Files (keep source only)
+*.pdf (if generated from markdown)
+
+# Third-party Tools
+.direnv
+.ruby-version
+Gemfile.lock
+
+# Windows
+Thumbs.db
+ehthumbs.db
+*.lnk
+
+# Project-Specific: Do Not Commit
+# Analytics data that contains personal information
+analytics_raw_*.csv
+analytics_pii_*.xlsx
+
+# Draft videos or media not yet reviewed
+DRAFT_*_UNRELEASED.*
+REVIEW_PENDING_*
+
+# Exported email lists with personal data
+email_lists_raw_*
+contact_exports_*
+
+# Never commit:
+# - Student/user personal data
+# - Financial information
+# - Health information
+# - API keys or tokens
+# - Passwords or credentials
