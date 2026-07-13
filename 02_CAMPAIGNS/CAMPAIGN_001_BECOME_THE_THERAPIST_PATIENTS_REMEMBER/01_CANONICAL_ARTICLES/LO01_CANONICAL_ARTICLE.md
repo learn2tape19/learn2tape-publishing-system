@@ -1,8 +1,8 @@
 # Tape Doesn't Fail: Clinical Reasoning Does
 
 **Learning Objective:** LO1 — Clinical Reasoning as Foundation  
-**Word Count:** 795  
-**Status:** Refactored — Single Idea Focus  
+**Word Count:** ~710 (tightened; target: 800–1,200)  
+**Status:** ✓ Drew-Approved — Ready for Derivatives  
 
 ---
 
@@ -10,31 +10,25 @@
 
 You have a patient with ankle pain after a twist. Assessment shows intact ligaments and good ROM, but pain with weight-bearing. The question isn't whether to tape—it's how.
 
-You've been taping ankles for years. You know the techniques. But standing with this patient, you realize: Are you taping because the condition calls for it, or because you always tape ankles this way?
+Most therapists tape based on diagnosis. Ankle sprain = stability tape. Shoulder impingement = support tape. Simple: diagnosis → protocol → apply → next patient.
 
-Most therapists tape based on condition name. Ankle sprain = stability tape. Shoulder impingement = support tape. It's simple: diagnosis → protocol → apply → next patient.
-
-But here's what I learned after two decades: the condition name is where thinking should *start*, not where it should *end*.
+After two decades, I learned something different: the diagnosis is where thinking should *start*, not where it should *end*.
 
 ---
 
 ## The Common Mistake
 
-The standard approach: assume the injured structure needs protecting. Apply a stabilizing technique. Create an artificial brace.
+The standard approach: diagnose, then apply a protocol. Ankle sprain = stability tape. It feels logical. You're protecting the structure.
 
-It feels right. Logical. You're supporting the structure.
+I did this for years—until a patient with chronic ankle pain changed everything.
 
-I did this for years.
+For months, I'd tapped her ankle the same way: stability tape, ankle support. She'd feel better briefly, then pain returned. Frustrated, I *actually* assessed her movement—not "can you move?" but *how are you moving?*
 
-Then I treated a patient with chronic ankle pain that never improved. For months, I'd been taping her ankle the same way—stability tape, ankle support, protective technique. She'd feel better for a day or two, then pain returned.
-
-Frustrated, I actually *assessed* her movement—not just "can you move?" but *how are you moving?*
-
-What I found stopped me: her ligament was completely fine. No tissue damage. But her movement pattern was wrong. She walked through subtle inversion. Her nervous system was still *protecting* an ankle that didn't need protecting.
+Her ligament was fine. No tissue damage. But her nervous system was still *protecting* an ankle that didn't need protecting.
 
 All the stability tape in the world wouldn't fix that.
 
-I'd been solving the wrong problem. Not from lack of technique. From lack of reasoning. I taped based on diagnosis, not on assessment.
+I'd been solving the wrong problem—not from lack of technique, but from lack of reasoning. I taped based on diagnosis, not assessment.
 
 ---
 
@@ -60,17 +54,13 @@ Same ankle. Different assessment. Different reasoning. Different result.
 
 ## Why It Works
 
-Here's what we know: pain isn't always tissue damage. Sometimes it's the nervous system's protective strategy.
+Pain isn't always tissue damage—sometimes it's the nervous system's protective strategy. The ligament is fine, but the brain doesn't know that yet. Tape's job: change the story the brain is telling.
 
-The ligament is fine, but the brain doesn't know that yet. The tape's job is to tell the brain "this is safe to use."
+Stability tape solves tissue damage problems. But without tissue damage, stability isn't the answer. Re-education is.
 
-Stability tape solves tissue damage problems. But if there's no tissue damage, stability isn't the goal. Re-education is.
+This is how experts think: assessment → finding → reasoning → technique. It's structured, not complicated.
 
-This progression—assessment → finding → reasoning → technique—is how experts think. It's not complicated. It's *structured*.
-
-And here's what I wish I'd learned sooner: you don't need twenty years to think this way. You need a repeatable assessment process. The structure works regardless of experience because it's based on observable findings, not intuition.
-
-New graduates can reason like this immediately.
+And here's what matters: you don't need twenty years to think this way. You need a repeatable assessment process. The structure works regardless of experience because it's based on observable findings, not intuition. New graduates can start reasoning this way from day one.
 
 ---
 
