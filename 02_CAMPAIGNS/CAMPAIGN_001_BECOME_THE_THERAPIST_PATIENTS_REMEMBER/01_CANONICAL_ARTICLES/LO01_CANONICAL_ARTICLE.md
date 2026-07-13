@@ -10,7 +10,7 @@
 
 You have a patient with ankle pain after a twist. Assessment shows intact ligaments and good ROM, but pain with weight-bearing. The question isn't whether to tape—it's how.
 
-Most therapists tape based on diagnosis. Ankle sprain = stability tape. Shoulder impingement = support tape. Simple: diagnosis → protocol → apply → next patient.
+A common approach is to tape based on diagnosis. Ankle sprain = stability tape. Shoulder impingement = support tape. Simple: diagnosis → protocol → apply → next patient.
 
 After two decades, I learned something different: the diagnosis is where thinking should *start*, not where it should *end*.
 
@@ -20,15 +20,15 @@ After two decades, I learned something different: the diagnosis is where thinkin
 
 The standard approach: diagnose, then apply a protocol. Ankle sprain = stability tape. It feels logical. You're protecting the structure.
 
-I did this for years—until a patient with chronic ankle pain changed everything.
+I did this for years. Then a patient with chronic ankle pain changed everything.
 
-For months, I'd tapped her ankle the same way: stability tape, ankle support. She'd feel better briefly, then pain returned. Frustrated, I *actually* assessed her movement—not "can you move?" but *how are you moving?*
+For months, I'd been taping her ankle the same way: stability tape, ankle support. She'd feel better briefly, then pain returned. Frustrated, I *actually* assessed her movement. Not just "can you move?" but *how are you moving?*
 
 Her ligament was fine. No tissue damage. But her nervous system was still *protecting* an ankle that didn't need protecting.
 
 All the stability tape in the world wouldn't fix that.
 
-I'd been solving the wrong problem—not from lack of technique, but from lack of reasoning. I taped based on diagnosis, not assessment.
+I'd been solving the wrong problem. It wasn't from a lack of technique. It was from a lack of reasoning. I taped based on diagnosis, not assessment.
 
 ---
 
@@ -46,19 +46,19 @@ Tissue is fine → nervous system protection is the problem → the brain needs 
 
 **Technique third.** What should I do?
 
-Apply tape that cues better movement and builds confidence—not stability tape. Completely different approach.
+Apply tape that cues better movement and builds confidence. Not stability tape. Completely different approach.
 
-Same ankle. Different assessment. Different reasoning. Different result.
+Same ankle. Different assessment. Different reasoning. Different approach.
 
 ---
 
 ## Why It Works
 
-Pain isn't always tissue damage—sometimes it's the nervous system's protective strategy. The ligament is fine, but the brain doesn't know that yet. Tape's job: change the story the brain is telling.
+Pain isn't always evidence of tissue damage. Sometimes it reflects a protective response from the nervous system. The ligament is fine, but the brain doesn't know that yet. The goal was not simply to brace the ankle. It was to use tape as sensory input that might help change the story the nervous system was telling about movement.
 
 Stability tape solves tissue damage problems. But without tissue damage, stability isn't the answer. Re-education is.
 
-This is how experts think: assessment → finding → reasoning → technique. It's structured, not complicated.
+This is how structured clinical reasoning works: assessment → finding → reasoning → technique. It's structured, not complicated.
 
 And here's what matters: you don't need twenty years to think this way. You need a repeatable assessment process. The structure works regardless of experience because it's based on observable findings, not intuition. New graduates can start reasoning this way from day one.
 
@@ -66,7 +66,7 @@ And here's what matters: you don't need twenty years to think this way. You need
 
 ## Clinical Takeaway
 
-**Tape doesn't fail. Your reasoning does—if you skip it.**
+**Tape doesn't fail. Your reasoning does. That is, it fails if you skip it.**
 
 Before you decide what to tape, know what you found. Let assessment data drive reasoning. Let reasoning drive technique.
 
